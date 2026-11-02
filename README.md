@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://agniv33.github.io/AgnivPortfolio">
-    <img src="./profile.jpg" width="100%" alt="Agniv Sarkar – Full-Stack Developer | AI Enthusiast"/>
+    <img src="./profile-v2.jpg" width="100%" alt="Agniv Sarkar – Full-Stack Developer | AI Enthusiast"/>
   </a>
 </p>
 
